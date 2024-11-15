@@ -1,0 +1,40 @@
+/* univerzalni selektor */
+* {
+    font-family: "Montserrat", sans-serif;
+
+}
+
+
+
+
+h3{
+    color:darkgoldenrod;
+}
+h4 {
+    color:#E44C57;
+    background-color: aqua;
+}
+.rgb {
+    color:rgb(48, 150, 50);
+}
+.amet{
+    background-color: burlywood;
+}
+p{
+    font-weight: bolder;
+    font-size: 20px;
+}
+div{
+    width: 400px;
+    height: 400px;
+    background-color:coral;
+    text-align: center;
+}
+/*klase*/
+.naslov{
+    color:chartreuse;
+}
+/*id*/
+#naslov1{
+    color:crimson;
+}
