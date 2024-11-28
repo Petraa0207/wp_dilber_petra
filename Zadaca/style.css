@@ -1,0 +1,46 @@
+    h1{
+    font-family: ;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 4rem;
+    }
+    h2{
+     font-family: ;   
+     font-weight: 400;
+     font-style: normal;
+    }
+    ul{
+    font-family: ;
+    font-weight: 400;
+    font-style: normal;
+    }
+    p1{
+        font-family: ;
+        width: 16px;
+        font-style: normal;
+        color: #37474F;
+    }
+    p2{
+        font-family: ;, sans-serif;
+        width: 20px;
+        font-style: normal;
+        color: #546E7A;
+
+    }
+    p3{
+    font-family: ;
+    width: 20px;
+    font-style: normal;
+    color: #78909C;
+    background-color: rgb(48,94, 61);
+
+    }
+    h2{
+        color: #4CAF50;
+    }
+    ul{
+        background-color: #ECEF1;
+    }
+    body{
+        background-color: #FAFAFA;
+    }
